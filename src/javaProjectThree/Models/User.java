@@ -1,4 +1,4 @@
-package javaProjectThree;
+package javaProjectThree.Models;
 
 public class User {
     private int id;

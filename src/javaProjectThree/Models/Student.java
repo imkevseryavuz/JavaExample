@@ -1,4 +1,4 @@
-package javaProjectThree;
+package javaProjectThree.Models;
 
 public class Student extends User{
     public String getStudentNumber() {

@@ -1,5 +1,10 @@
 package javaProjectThree;
 
+import javaProjectThree.Managers.UserManager;
+import javaProjectThree.Models.Instructor;
+import javaProjectThree.Models.Student;
+import javaProjectThree.Models.User;
+
 public class Main {
     public static void main(String[] args){
     Student student1=new Student();

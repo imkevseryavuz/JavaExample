@@ -1,4 +1,4 @@
-package javaProjectThree;
+package javaProjectThree.Models;
 
 public class Instructor extends User{
     private String instructorNo;

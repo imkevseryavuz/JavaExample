@@ -1,4 +1,6 @@
-package javaProjectThree;
+package javaProjectThree.Managers;
+
+import javaProjectThree.Models.User;
 
 public class InstructorManager extends UserManager {
     @Override

@@ -1,4 +1,6 @@
-package javaProjectThree;
+package javaProjectThree.Managers;
+
+import javaProjectThree.Models.User;
 
 public class UserManager {
     public void add(User user){
